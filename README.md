@@ -15,7 +15,7 @@
 
 -----------------------------------------------------------------
 # Project Title
-
+This is a Mobile application to manage Fuel queues in fuel stations using client-server architecture.
 
 
 -----------------------------------------------------------------

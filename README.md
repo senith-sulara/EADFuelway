@@ -9,6 +9,8 @@
 | ------------- | ------------- | ------------- |
 | Munasinghe M.A.S.S  | IT19143828  | senith-sulara  |
 | Mudannayake W.M.M.H.C  | IT19095240  | hashini-m  |
+| Dilitha Ranjuna G.P  | IT19156484  | DilithaR  |
+
 
 
 -----------------------------------------------------------------
@@ -41,6 +43,8 @@ Procedure of setting up prerequisites and run the project:
 6.	After the installation type "npm start" and click enter. Then backend will start. 
 7.	Open android studio to and open the project
 9.	Build gradle
-10.	Open Android emulator
-11. 	Run With out debuging / start debuging  
-12.	Create Account and login.
+10. Open Android emulator
+11. Run With out debuging/start debuging  
+12. Create Account and login
+
+Deployed Backend URL : https://ead-fuel.herokuapp.com/

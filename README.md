@@ -43,4 +43,4 @@ Procedure of setting up prerequisites and run the project:
 9.	Build gradle
 10.	Open Android emulator
 11. 	Run With out debuging / start debuging  
-13.	Create Account and login.
+12.	Create Account and login.

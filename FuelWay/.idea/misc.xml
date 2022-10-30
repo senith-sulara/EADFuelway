@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/drawable/edittext_round.xml" value="0.1565" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.112890625" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout-w936dp/activity_login.xml" value="0.131640625" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/activity_login_screen.xml" value="0.22" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/activity_signin_screen.xml" value="0.11085526315789473" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/activity_splash_screen.xml" value="0.11085526315789473" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/activity_userhome.xml" value="0.1" />
+        <entry key="..\:/adnd/FuelWay/app/src/main/res/layout/categorycard.xml" value="0.10666666666666667" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1845" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/bkground.xml" value="0.1845" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/cardbackground.xml" value="0.1845" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/dieround.xml" value="0.23" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/edittext_round.xml" value="0.213" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1845" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/marg.xml" value="0.2395" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/mbbak.xml" value="0.2295" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/petrr.xml" value="0.23" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/drawable/rippleeffect.xml" value="0.1845" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_join_pet_queue.xml" value="0.22" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_login_screen.xml" value="0.17282051282051283" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_main.xml" value="0.41794871794871796" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_owner_home.xml" value="0.15260416666666668" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_owner_login.xml" value="0.24315068493150685" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_owner_register_screen.xml" value="0.22" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_queue_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_signin_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_update_station_screen.xml" value="0.15260416666666668" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_user_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_userhome.xml" value="0.13802083333333334" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/activity_view_queue_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/categorycard.xml" value="0.22" />
+        <entry key="..\:/adnd/fuelapp/FuelWay/app/src/main/res/layout/ownercard.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

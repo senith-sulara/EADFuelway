@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A259FF"
+    tools:context=".OwnerLogin">
+
+    <ImageView
+        android:id="@+id/imageView1ow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/bg" />
+
+    <ImageView
+        android:id="@+id/imageView3ow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView1ow"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/base" />
+
+    <TextView
+        android:id="@+id/textView2ow"
+        android:layout_width="244dp"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:text="Welcome back!"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        app:fontFamily="sans-serif-black"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3ow"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView1ow" />
+
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="443dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView3ow">
+
+        <EditText
+            android:id="@+id/unamelogow"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/edittext_round"
+            android:ems="10"
+            android:hint="Enter your Fuel Station name"
+            android:inputType="textPersonName"
+            android:padding="10dp" />
+
+
+
+        <EditText
+            android:id="@+id/passtxtlgowe"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/edittext_round"
+            android:ems="10"
+            android:hint="Enter your NIC"
+            android:inputType="textPersonName"
+            android:padding="10dp" />
+
+
+        <Button
+            android:id="@+id/logbtnow"
+            android:layout_width="350dp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="30dp"
+            app:backgroundTint="#918FE1"
+            android:text="Login"
+            app:cornerRadius="18dp" />
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="38dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView4ow"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginStart="20dp"
+                android:text="Don't have an account?" />
+
+            <TextView
+                android:id="@+id/signuplinkow"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingStart="5dp"
+                android:text="Sign up"
+                android:textColor="#051EFF" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/ownerlgow"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:gravity="center"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:textColor="#3E3E3E"
+            android:text="Fuel Station Owner Login" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
